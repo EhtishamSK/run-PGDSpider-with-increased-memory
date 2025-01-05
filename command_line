@@ -1,0 +1,5 @@
+# Command to run PGDSpider with increased memory allocation
+# Adjust the path to your PGDSpider and JAR file locations as needed
+
+# Run PGDSpider with 4 GB maximum heap memory allocation (adjust the path accordingly)
+java -Xmx4096m -Xms512m -jar "C:\Users\ehtis\Downloads\PGDSpider_3.0.0.0\PGDSpider_3.0.0.0\PGDSpider3.jar"
